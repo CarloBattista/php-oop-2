@@ -1,6 +1,14 @@
 <?php
 
-
+// Classe prodotto
+class Product {
+    public $id;
+    public $title;
+    public $price;
+    public $category;
+    public $type;
+    public $image;
+}
 
 ?>
 
@@ -21,6 +29,10 @@
         <a href="/index.php" class="logosite">
             <h1 class="typelogo">PetPlanet</h1>
         </a>
+    </div>
+    <!-- Container Main -->
+    <div class="main">
+
     </div>
     
 </body>

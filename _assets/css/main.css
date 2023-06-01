@@ -65,7 +65,16 @@ h6 {
 }
 
 .typelogo{
-    color: #000;
+    color: #121212;
     font-size: 1.5rem;
     font-weight: 600;
+}
+
+/* Container Main */
+.main{
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
