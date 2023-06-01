@@ -50,3 +50,22 @@ h5,
 h6 {
     overflow-wrap: break-word;
 }
+
+/* Header */
+.header{
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    height: 68px;
+    padding: 0 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fcd400;
+}
+
+.typelogo{
+    color: #000;
+    font-size: 1.5rem;
+    font-weight: 600;
+}

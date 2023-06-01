@@ -16,7 +16,12 @@
 </head>
 <body>
 
-    
+    <!-- Header -->
+    <div class="header">
+        <a href="/index.php" class="logosite">
+            <h1 class="typelogo">PetPlanet</h1>
+        </a>
+    </div>
     
 </body>
 </html>
