@@ -121,7 +121,7 @@ h6 {
     border: 1px solid rgba(255, 255, 255, .2);
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .title_product {
