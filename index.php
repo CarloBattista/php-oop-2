@@ -33,6 +33,8 @@ class Product
     <title>php-oop-2</title>
     <!-- CSS -->
     <link rel="stylesheet" href="./_assets/css/main.css">
+    <!-- CDN -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' integrity='sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==' crossorigin='anonymous'/>
 </head>
 
 <body>
@@ -51,6 +53,137 @@ class Product
             <div class="card_pr">
                 <div class="wrap_image">
                     <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="container_info">
+                    <h2 class="title_product">Titolo prodotto</h2>
+                    <h3 class="price_content">&euro; <span class="price">00,00</span></h3>
+                </div>
+            </div>
+            <div class="card_pr">
+                <div class="wrap_image">
+                    <img class="image_product" src="https://arcaplanet.vtexassets.com/arquivos/ids/269608/advantix-spot-on-25-40-kg.jpg?v=637830163490600000" alt="">
+                    <div class="overlay">
+                        <div class="box_type_product">
+                            <i class="fa-solid fa-dog"></i>
+                        </div>
+                    </div>
                 </div>
                 <div class="container_info">
                     <h2 class="title_product">Titolo prodotto</h2>
