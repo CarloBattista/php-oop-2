@@ -90,6 +90,7 @@ $products = array(
                     <h2 class="title_product"><?php echo $elem->title ?></h2>
                     <div class="primary_line">
                         <span class="price_content">&euro; <span class="price"><?php echo $elem->price ?></span></span>
+                        <span class="type_content"><?php echo $elem->type ?></span>
                     </div>
                 </div>
             </div>
